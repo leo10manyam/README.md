@@ -32,8 +32,8 @@ I’m always interested in collaborating on creative, impactful tech projects. I
 
 ### Profile Views
 
-[![Profile Views](https://u8views.com/api/v1/github/profiles/leo10manyam/views/day-week-month-total-count.svg)](https://u8views.com/github/leo10manyam)
 
+[![Profile Views](https://u8views.com/api/v1/github/profiles/YourUserID/views/day-week-month-total-count.svg)](https://u8views.com/github/leo10manyam)
 
 
 ---
