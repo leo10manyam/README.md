@@ -1,6 +1,6 @@
 ### Hello, I'm K Subramanyam 👋
 
-An aspiring data scientist and tech enthusiast, currently a 4th-year CSE student at BIET College. I’m passionate about **Data Science**, **Python programming**, **Generative AI**, and exploring innovations in **AI/ML**. 
+An aspiring computer engineer and tech enthusiast, currently a 4th-year CSE student at BIET College. I’m passionate about **Data Science**, **Generative AI**, **Python programming**, and exploring innovations in **AI/ML**. 
 
 ---
 
@@ -46,4 +46,3 @@ I’m always interested in collaborating on creative, impactful tech projects. I
 
 ---
 
-This README template should be placed in a GitHub repository named exactly after your **leo10manyam** for it to display on your profile page.
