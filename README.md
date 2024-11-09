@@ -7,7 +7,7 @@ An aspiring computer engineer and tech enthusiast, currently a 4th-year CSE stud
 🌱 **Currently Exploring**:  
 - Advanced techniques in **Data Science** and **Generative AI**
 - **Python** Coding skills
-- Building intelligent web applications with **Python**
+- Building intelligent web applications
 - Latest breakthroughs in **AI/ML**
 
 🤝 **Open to Collaboration**:  
