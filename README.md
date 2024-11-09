@@ -42,7 +42,6 @@ I’m always interested in collaborating on creative, impactful tech projects. I
 
 [![Peerlist Badge](https://github-readme-badge.peerlist.io/api/leo10manyam?style=for-the-badge)](https://peerlist.io/leo10manyam)
 
-
 ---
 
 This README template should be placed in a GitHub repository named exactly after your **GitHub username** for it to display on your profile page.
