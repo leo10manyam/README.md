@@ -34,11 +34,14 @@ I’m always interested in collaborating on creative, impactful tech projects. I
 
 [![Profile Views](https://u8views.com/api/v1/github/profiles/leo10manyam/views/day-week-month-total-count.svg)](https://u8views.com/github/leo10manyam)
 
+
+
 ---
 
 ### Dynamic Badges
 
 [![Peerlist Badge](https://github-readme-badge.peerlist.io/api/leo10manyam?style=for-the-badge)](https://peerlist.io/leo10manyam)
+
 
 ---
 
