@@ -30,7 +30,7 @@
 
 ### Profile Views
 
-[![Profile Views](https://u8views.com/api/v1/github/profiles/your-github-username/views/day-week-month-total-count.svg)](https://u8views.com/github/thekaranatic)
+[![Profile Views](https://u8views.com/api/v1/github/profiles/your-github-username/views/day-week-month-total-count.svg)]
 
 ---
 
@@ -40,6 +40,6 @@
 
 ---
 
-This README file should be placed in a repository named **the same as your GitHub username** (e.g., `thekaranatic`). Once added, it will automatically display on your GitHub profile page!
+This README file should be placed in a repository named **the same as your GitHub username** (e.g., `leo10manyam`). Once added, it will automatically display on your GitHub profile page!
 
 Let me know if you'd like any adjustments or additional customizations.
