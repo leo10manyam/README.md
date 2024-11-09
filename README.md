@@ -40,8 +40,9 @@ I’m always interested in collaborating on creative, impactful tech projects. I
 
 ### Dynamic Badges
 
-[![Peerlist Badge](https://github-readme-badge.peerlist.io/api/leo10manyam?style=for-the-badge)](https://peerlist.io/leo10manyam)
+![Peerlist Badge](https://img.shields.io/badge/Peerlist-leo10manyam-blue?style=for-the-badge&logo=peerlist)
+
 
 ---
 
-This README template should be placed in a GitHub repository named exactly after your **GitHub username** for it to display on your profile page.
+This README template should be placed in a GitHub repository named exactly after your **leo10manyam** for it to display on your profile page.
